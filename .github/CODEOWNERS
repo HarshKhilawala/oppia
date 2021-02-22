@@ -45,7 +45,10 @@
 
 # Android team
 /core/domain/android_validation_constants*.py @HarshKhilawala
-
+# TODO(#11083): Revert owner to @BenHenning after 2020-11-15.
+# TODO(#11083): Re-add owner @BenHenning after 2020-11-15.
+/.circleci/ @U8NWXD @kevintab95 @vinitamurthi
+/core/domain/android_validation_constants*.py @rt4914
 
 # Angular Migration team
 /core/templates/components/shared-component.module.ts @srijanreddy98
